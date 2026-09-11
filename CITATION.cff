@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper and this repository."
+title: "Code for: Environmental factors influencing the land-ocean contrast in lightning and overshooting tops over northern Australia"
+authors:
+  - family-names: Patel
+    given-names: Tanya
+    affiliation: "UNSW Sydney"
+  # TODO: add remaining co-authors here once finalized, e.g.:
+  # - family-names: <LastName>
+  #   given-names: <FirstName>
+  #   affiliation: "<Affiliation>"
+version: 1.0.0
+date-released: "2026-09-11"   # TODO: update to actual release date
+repository-code: "https://github.com/TanyaGIT-BIT/lightning_ot_land_ocean_contrast_Australia"
+license: MIT
+# TODO: add preferred-citation block (journal, DOI, volume) once paper is published
